@@ -14,3 +14,21 @@ from module2 import*
 #print(a)
 t=Liigaasta(int(input("Sisesta aasta number :")))
 pritn(t)
+from module1 import*
+#TASK3
+#a=ruudu külg=Pindala(a,b)
+#print(S)
+#S=Pindala(float(input("a= ")),float(input("b= ")))
+#rint(S)g("Введи число:")
+#TASK4
+#a=float(input("month:"))
+#D=print(a)
+#TASK5
+#a=float(input("money: "))
+#years=int(input("years: "))
+#N=bank(a,years)
+#print(N)
+#TASK6
+a=int(input())
+N=is_prime(a)
+print(N)
